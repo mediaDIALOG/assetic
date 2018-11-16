@@ -30,7 +30,6 @@ Asseticのアセットインターフェースを満足させさえすれば良�
  * Packager
  * pngout
  * SASS
- * Sprockets (version 1)
  * Stylus
  * YUI Compressor
 
